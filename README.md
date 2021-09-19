@@ -1,6 +1,8 @@
 # wordpress-local-dev-env
 
-国内Git仓库同步 [Coding](https://serverless-100004270734.coding.net/public/wordpress-local-dev/wordpress-local-dev-env/git/files)
+国内Git仓库同步 
+
+1. [Coding](https://serverless-100004270734.coding.net/public/wordpress-local-dev/wordpress-local-dev-env/git/files)
 
 wordpress本地开发调试环境
 
