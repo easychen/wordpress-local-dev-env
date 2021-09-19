@@ -1,5 +1,7 @@
 # wordpress-local-dev-env
 
+国内Git仓库同步 [Coding](https://serverless-100004270734.coding.net/public/wordpress-local-dev/wordpress-local-dev-env/git/files)
+
 wordpress本地开发调试环境
 
 1. 将wordpress代码下载并解压，重命名为`wordpress_code`放入根目录
